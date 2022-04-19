@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/tahtarov/notedly#readme",
   "dependencies": {
+    "apollo-server-express": "^3.6.7",
     "express": "^4.17.3",
     "nodemon": "^2.0.15"
   }
